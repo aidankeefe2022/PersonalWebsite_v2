@@ -2,4 +2,7 @@
 -Iinclude
 -Isrc
 -lAidan
+-lwolfssl
+-lhttps
+-lctmpl
 
